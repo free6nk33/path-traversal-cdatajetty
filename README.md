@@ -8,7 +8,7 @@ Vérification des réponses HTTP : Le script vérifie si la requête est réussi
 
 Utilisation :
 
-    ./script.sh <fichier_de_domaines> <fichier_de_sortie>
+    ./exp.sh <fichier_de_domaines> <fichier_de_sortie>
 
 <fichier_de_domaines> : Fichier contenant une liste de domaines à tester.
 <fichier_de_sortie> : Fichier où seront stockées les clés AWS trouvées.
